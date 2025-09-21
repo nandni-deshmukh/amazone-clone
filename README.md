@@ -14,7 +14,7 @@ A responsive Amazon clone website with product slider, today deals section, and 
 - JavaScript (ES6)
 
 ## How to Run
-1. Clone the repository: `https://github.com/nandni-deshmukh/amazone-clone.git`
+1. Clone the repository: (https://github.com/nandni-deshmukh/amazone-clone.git)
 2. Open `index.html` in your browser.
 
 ## Live Demo
