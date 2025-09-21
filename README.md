@@ -18,4 +18,4 @@ A responsive Amazon clone website with product slider, today deals section, and 
 2. Open `index.html` in your browser.
 
 ## Live Demo
-[Click here to view live]
+[Click here to view live] (https://nandni-deshmukh.github.io/amazone-clone/)
